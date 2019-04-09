@@ -9,7 +9,7 @@ Principal investigators: Michael Daniel & Konstantin Filatov
 
 Date of creation: March 2019
 
-The last version of the script can be found here: https://github.com/LingConLab/Rutul_dictionary
+The last version of the dictionary can be found here: https://github.com/LingConLab/Rutul_dictionary
 
 
 ## Structure of the repository:
