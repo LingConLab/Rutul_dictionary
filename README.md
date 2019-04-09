@@ -27,7 +27,7 @@ The last version of the script can be found here: https://github.com/LingConLab/
 `make_json.py`: python file which creates a json-file from the original data. 
 
 
-# Instruction
+## Instruction
 If you want to use this platform to create your own dictionary:
 - in `index.html` change the name and the description of the project, and column names if necessary;
 - create a json-file with your data and call it `data.json`;
