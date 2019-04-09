@@ -19,8 +19,6 @@ html {
 }
 body {
   margin: 0;
-  padding-top: 76px;
-  max-width: 100%;
 }
 article,
 aside,
@@ -6872,10 +6870,3 @@ legend {
 .modal .close {
   color: #333333;
 }
-td.details-control {
-    background: url('images/details_open.png') no-repeat center center;
-    cursor: pointer;
-}
-tr.shown td.details-control {
-    background: url('images/details_close.png') no-repeat center center;
-  }
